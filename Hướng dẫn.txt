@@ -1,0 +1,17 @@
+*******Hướng dẫn*****
+
+--File báo cáo gồm 1 file cơ sở dữ liệu (.mdf)
+                 1 file cơ sở dữ liệu (.ldf)
+                 1 file cơ sở dữ liệu (.sql)
+                 1 file báo cáo đề tài (.pdf)
+                 1 file báo cáo đề tài (.dox)
+                 1 tập tin chứa chương trình (CuaHangTieuDung)
+                 
+--Cách chạy chương trình:
+B1: Vào tập tin chứa chương trình (CuaHangTieuDung)
+B2: Chọn file CuaHangTieuDung.sln
+B3: Nhấn Ctrl + F5 để chạy chương trình
+
+--Tài khoản admin : truy cập / sửa đổi thông tin sản phẩm (trang Chi tiết sản phẩm, Thêm sản phẩm)
+username: admin
+password: 1234567*
